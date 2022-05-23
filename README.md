@@ -19,3 +19,6 @@ If player's point is greater than 21, he will bust and lose the game.
 
 If player's point is greater than dealer's point, he will win the game.
 
+![image](https://user-images.githubusercontent.com/42562789/169733811-3b2fe30c-235d-4d49-8733-202c89009a09.png)
+
+Ace can be treated as 1 point or 11 point. If the player can 21 points in total, he will win the game and the system shows BlackJack!
